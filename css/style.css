@@ -5,11 +5,11 @@
 
   }
 
+
 nav{
   height:50px;
   width:100%;
 }
-
 
   .socialtop{
     float:right;
@@ -72,9 +72,11 @@ nav{
 
     #introduction {
     text-align: center;
-    padding-top: 75px;
-    padding-left: 275px;
-    padding-right: 275px;
+    padding-top: 3%;
+    padding-left: 15%;
+    padding-right:15%;
+    margin-left: auto;
+    margin-right: auto;
     border: 1px solid #1C2340;
     background-color: #1C2340;
     color:#1C2340;
@@ -85,9 +87,10 @@ nav{
     #about { 
       text-align: center;
       height:100%;
-      color:black;
-      padding-left: 275px;
-      padding-right: 275px;
+      padding-left: 15%;
+      padding-right:15%;
+      margin-left: auto;
+      margin-right: auto;
       border: 1px solid #1C2340;
       background-color: #1C2340;
       color:#1C2340;
@@ -99,8 +102,10 @@ nav{
       text-align: center;
       height:100%;
       color:black;
-      padding-left: 275px;
-      padding-right: 275px;
+      padding-left: 15%;
+      padding-right:15%;
+      margin-left: auto;
+      margin-right: auto;
       border: 1px solid #1C2340;
       background-color: #1C2340;
       color:#1C2340;
@@ -111,8 +116,10 @@ nav{
 
     #education {
       text-align: center;
-      padding-left: 275px;
-      padding-right: 275px;
+      padding-left: 15%;
+      padding-right:15%;
+      margin-left: auto;
+      margin-right: auto;
       border: 1px solid #1C2340;
       background-color: #1C2340;
       color:#1C2340;
@@ -121,8 +128,10 @@ nav{
 
     #experience {
  
-      padding-left: 275px;
-      padding-right: 275px;
+      padding-left: 15%;
+      padding-right:15%;
+      margin-left: auto;
+      margin-right: auto;
       border: 1px solid #1C2340;
       background-color: #1C2340;
       color:#1C2340;
@@ -165,8 +174,10 @@ nav{
 
     #projects {
       text-align:center;
-      padding-left: 275px;
-      padding-right: 275px;
+      padding-left: 15%;
+      padding-right:15%;
+      margin-left: auto;
+      margin-right: auto;
       border: 1px solid #1C2340;
       background-color: #1C2340;
       color:#1C2340;
@@ -197,8 +208,10 @@ nav{
 
       #interests {
         text-align:center;
-        padding-left: 275px;
-        padding-right: 275px;
+        padding-left: 15%;
+        padding-right:15%;
+        margin-left: auto;
+        margin-right: auto;
         border: 1px solid #1C2340;
         background-color: #1C2340;
         color:#1C2340;
@@ -206,8 +219,10 @@ nav{
       
       #contactme {
         text-align:center;
-        padding-left: 275px;
-        padding-right: 275px;
+        padding-left: 15%;
+        padding-right:15%;
+        margin-left: auto;
+        margin-right: auto;
         border: 1px solid #1C2340;
         background-color: #1C2340;
         color:#1C2340;
@@ -215,16 +230,20 @@ nav{
 
       #references {
         text-align:center;
-        padding-left: 275px;
-        padding-right: 275px;
+        padding-left: 15%;
+        padding-right:15%;
+        margin-left: auto;
+        margin-right: auto;
         border: 1px solid #1C2340;
         background-color: #1C2340;
         color:#1C2340;
       }
 
       #map {
-        padding-left: 275px;
-        padding-right: 275px;
+        padding-left: 15%;
+        padding-right:15%;
+        margin-left: auto;
+        margin-right: auto;
         border: 1px solid #1C2340;
         background-color: #1C2340;
         color:#1C2340;
@@ -458,6 +477,8 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 706px;
+  width:auto;
+  height:auto;
   position: relative;
   margin: auto;
   background-color: #1C2340;
@@ -507,3 +528,4 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+
